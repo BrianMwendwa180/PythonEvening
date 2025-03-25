@@ -7,7 +7,7 @@
     print(sum)
     add()
     '''
-def add(a, b):
+def add(a, b): #paramiters
     sum = a + b
     print(sum)
 add(45, 20)
